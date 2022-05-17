@@ -1,0 +1,11 @@
+{
+  "name": "com.nomina.slimehaven",
+  "displayName": "Slime Haven",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Slime Haven SDK for loading its character(s).",
+  "repository": {
+    "url": "",
+    "type": "git"
+  }
+}
